@@ -1,6 +1,6 @@
 # Contributing to Folder Deleter
 
-Thank you for considering contributing to the Folder Deleter application! Your contributions are vital for the growth and improvement of this project.
+Thank you for considering contributing to the **Folder Deleter** application! Your contributions are vital for the growth and improvement of this project.
 
 ## How to Contribute
 
