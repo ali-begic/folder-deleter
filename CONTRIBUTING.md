@@ -6,7 +6,7 @@ Thank you for considering contributing to the Folder Deleter application! Your c
 
 ### Reporting Issues
 
-If you encounter any bugs or have suggestions for improvements, please open an issue on our https://github.com/ali-begic/grades/issues page. When reporting an issue, include:
+If you encounter any bugs or have suggestions for improvements, please open an issue on our https://github.com/ali-begic/folder-deleter/issues page. When reporting an issue, include:
 - A clear description of the problem or suggestion.
 - Steps to reproduce the issue.
 - Any relevant screenshots or error messages.
