@@ -24,6 +24,7 @@ int main(int argc, char *argv[]) {
 
     window.setWindowTitle("Folder Deleter");
     window.setFixedSize(350, 255);
+    window.setWindowIcon(QIcon(":/icons/folderDeleter.ico"));
 
     window.show();
     return app.exec();
