@@ -4,6 +4,42 @@ The **Folder Deleter** application simplifies the process of removing folders by
 
 ![folder-deleter-capture](https://github.com/user-attachments/assets/13ac68f7-4f5c-43f5-b555-1fbe77df4462)
 
+## Features of the Folder Deleter Qt Application
+
+### Cross-Platform Compatibility
+- Compatible with various operating systems, ensuring that users can delete folders regardless of their platform.
+
+### User-Friendly Interface
+- A simple and intuitive interface designed with the Qt framework, making it easy to navigate and use.
+
+### Multiple Folder Deletion
+- **Select Multiple Folders**: Allows users to select and delete multiple folders simultaneously, either through a file dialog or by specifying folder paths manually.
+
+### Recursive Deletion
+- **Delete Subfolders**: Option to delete folders and their contents recursively, including all subfolders within the selected directory.
+
+### Hidden Folder Deletion
+- **Delete Hidden Folders**: Provides the option to include hidden folders in the deletion process, giving users complete control over what gets deleted.
+
+### Confirmation and Error Handling
+- **Confirmation Prompts**: Asks for confirmation before deleting folders, preventing accidental deletions.
+- **Error Handling**: Properly handles errors when folders do not exist or cannot be deleted, ensuring smooth operation.
+
+### Customizable Deletion Options
+- **Ask Before Each Deletion**: Allows users to enable or disable prompts for each folder being deleted.
+- **Selective Deletion**: Users can choose to delete only visible folders or include hidden ones as well.
+
+### Real-Time Feedback
+- **Success/Failure Messages**: Displays messages to inform users of successful deletions or any issues encountered during the process.
+
+### Efficient Performance
+- **Fast Deletion Process**: Optimized for quickly deleting multiple folders, minimizing wait times and enhancing user productivity.
+
+### Error Message Display
+- **Empty Input Validation**: Displays an error message if no folder is specified for deletion, ensuring users provide necessary input before proceeding.
+
+These features make the **Folder Deleter** a reliable tool for efficiently managing and deleting folders, giving users full control over the deletion process while ensuring safety and convenience.
+
 ## Building the Qt Application from Source
 
 To build and run the **Folder Deleter** application from source, it would be best solution to open the application in [Qt Creator](https://www.qt.io/), then compile it to your liking. But if you want to do it manually, here are the steps you need to follow: 
