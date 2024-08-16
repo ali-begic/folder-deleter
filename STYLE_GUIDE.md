@@ -1,6 +1,6 @@
 # Style Guide for Folder Deleter
 
-This document outlines the coding style and conventions to follow for the Folder Deleter project. Consistent code style helps improve readability and maintainability.
+This document outlines the coding style and conventions to follow for the **Folder Deleter** project. Consistent code style helps improve readability and maintainability.
 
 ## General Guidelines
 
