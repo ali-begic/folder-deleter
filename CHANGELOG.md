@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 ## [v1.0] - 2024-08-16
 
 ### Added
-- Initial release of the Folder Deleter application.
+- Initial release of the **Folder Deleter** application.
 - Core features include:
   - Basic functionality to delete folders with the same name in a specified parent directory and its subdirectories.
   - User-friendly interface with options to specify parent directory and folder name.
