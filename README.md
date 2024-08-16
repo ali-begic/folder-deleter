@@ -52,7 +52,7 @@ To build and run the Folder Deleter application from source, it would be best so
    - After a successful build, the executable will be located in the build directory.
    - Run the application:
      ```
-     ./grades
+     ./folderDeleter
      ```
    - On Windows, you can find the executable in the release or debug directory depending on your build configuration.
 
