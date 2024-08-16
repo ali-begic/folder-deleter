@@ -1,12 +1,12 @@
 # Folder Deleter
 
-The Folder Deleter application simplifies the process of removing folders by automating their deletion across multiple directories. Designed to handle situations where a folder with the same name exists in various locations, including nested subdirectories and hidden folders, this tool allows users to specify a parent directory and efficiently delete all instances of the specified folder. With options to include or exclude hidden folders, this application ensures thorough and flexible folder management, saving time and effort compared to manual deletion.
+The **Folder Deleter** application simplifies the process of removing folders by automating their deletion across multiple directories. Designed to handle situations where a folder with the same name exists in various locations, including nested subdirectories and hidden folders, this tool allows users to specify a parent directory and efficiently delete all instances of the specified folder. With options to include or exclude hidden folders, this application ensures thorough and flexible folder management, saving time and effort compared to manual deletion.
 
 ![folder-deleter-capture](https://github.com/user-attachments/assets/13ac68f7-4f5c-43f5-b555-1fbe77df4462)
 
 ## Building the Qt Application from Source
 
-To build and run the Folder Deleter application from source, it would be best solution to open the application in [Qt Creator](https://www.qt.io/), then compile it to your liking. But if you want to do it manually, here are the steps you need to follow: 
+To build and run the **Folder Deleter** application from source, it would be best solution to open the application in [Qt Creator](https://www.qt.io/), then compile it to your liking. But if you want to do it manually, here are the steps you need to follow: 
 
 1. **Clone the Repository:**
    - Ensure you have Git installed on your system.
@@ -58,10 +58,18 @@ To build and run the Folder Deleter application from source, it would be best so
      ```
    - On Windows, you can find the executable in the release or debug directory depending on your build configuration.
 
+## Contributing
+
+Contributions are welcome! If you find a bug, have a feature request, or want to improve the code, feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the Apache-2.0 license - see the [LICENSE](LICENSE) file for details.
+
 ## Additional Notes
 
 - Ensure that you have the correct version of Qt and associated build tools for your platform.
 - If you encounter issues, check the Qt and compiler documentation or seek assistance on community forums.
 - If the application still does not work properly, try running it as an administrator.
 
-Thank you for your interest in the Folder Deleter application!
+Thank you for your interest in the **Folder Deleter** application!
