@@ -42,7 +42,7 @@ These features make the **Folder Deleter** a reliable tool for efficiently manag
 
 ## Building the Qt Application from Source
 
-To build and run the **Folder Deleter** application from source, it would be best solution to open the application in [Qt Creator](https://www.qt.io/), then compile it to your liking. But if you want to do it manually, here are the steps you need to follow: 
+To build and run the **Folder Deleter** application from source, the best solution would be to open the application in [Qt Creator](https://www.qt.io/), then compile it to your liking. But if you want to do it manually, here are the steps you need to follow: 
 
 1. **Clone the Repository:**
    - Ensure you have Git installed on your system.
@@ -109,7 +109,7 @@ To deploy the **Folder Deleter** application on Windows, you can use the `windep
 3. **Navigate to the Build Directory:**
    - Use the command prompt to navigate to the directory where your application’s executable is located:
      ```bash
-     cd ../folder-deleter/build/release
+     cd .../folder-deleter/build/release
      ```
 
 4. **Run `windeployqt`:**
